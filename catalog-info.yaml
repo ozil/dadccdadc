@@ -6,7 +6,7 @@ metadata:
     github.com/project-slug: asd/dadccdadc
     backstage.io/techdocs-ref: dir:.
   tags: 
-  - cipcia
+    - cipcia
 spec:
   type: website
   lifecycle: experimental
